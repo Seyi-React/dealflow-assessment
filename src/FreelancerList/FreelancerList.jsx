@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { fetchFreelancers } from "../Freelancers/mockAPI";
+
 import Pagination from "../Pagination/Pagination";
 
 const FreelancerList = ({ freelancers }) => {
